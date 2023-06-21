@@ -1,8 +1,8 @@
 # python_basic
 tutorial to learn python basic
-## Plugins
 
 
+## Sessions
 | #session | README |
 | ------ | ------ |
 | 1 | Introduction |

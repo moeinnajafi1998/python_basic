@@ -3,7 +3,7 @@ tutorial to learn python basic
 
 
 ## Sessions
-| #session | README |
+| #session | subject |
 | ------ | ------ |
 | 1 | Introduction |
 | 2 | Variables |

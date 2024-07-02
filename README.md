@@ -13,17 +13,19 @@ tutorial to learn python basic
    - Variables and data types (integers, floats, strings, booleans)
    - Basic input and output
    - Comments
-
-3. **Control Structures**
-   - Conditional statements (`if`, `elif`, `else`)
-   - Loops (`for` and `while` loops)
-   - Break and continue statements
-
-4. **Basic Data Structures**
+  
+3. **Basic Data Structures**
    - Lists
    - Tuples
    - Dictionaries
    - Sets
+
+4. **Control Structures**
+   - Conditional statements (`if`, `elif`, `else`)
+   - Loops (`for` and `while` loops)
+   - Break and continue statements
+
+
 
 5. **Functions**
    - Defining and calling functions

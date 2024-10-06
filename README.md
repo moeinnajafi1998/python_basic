@@ -8,7 +8,7 @@ tutorial to learn python basic
    - Installing Python
    - Writing and running Python scripts
 
-2. **Other basics**
+2. **basic concepts**
    - Basic input and output
    - Comments
    - Python syntax rules and Indentation

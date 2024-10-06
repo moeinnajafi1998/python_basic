@@ -13,3 +13,12 @@
 # First script:
 
 print("Hello, World!")
+
+# Setting Up Python
+# 1.	Installation:
+# o	Windows/Mac/Linux: You can download Python from the official website python.org.
+# o	IDE: Install an Integrated Development Environment (IDE) like PyCharm, VS Code, or use simple text editors like Sublime Text or Atom.
+
+# 2.	Running Python Code:
+# o	Interactive Mode: Open a terminal or command prompt, type python, and start writing code interactively.
+# o	Script Mode: Write your code in a .py file and run it using python filename.py.

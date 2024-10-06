@@ -5,6 +5,12 @@
 # some notes
 # some notes
 
+# o	Single-line comments start with #.
+# This is a single-line comment
+# o	Multi-line comments can be written using triple quotes """ or '''.
+"""
+This is a multi-line comment
+"""
 
 # what are indents used to in python
 # In Python, indentation is used to define the structure and flow of the code. 

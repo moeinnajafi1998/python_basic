@@ -53,3 +53,15 @@ number = 5
 print(f"The factorial of {number} is {factorial(number)}")
 # This code defines a function to calculate the factorial of a number and then prints the factorial of 5.
 # Feel free to ask more specific questions or dive deeper into any topic!
+
+
+# Basic Operators
+# 1.	Arithmetic Operators:
+sum = 5 + 3
+diff = 5 - 3
+prod = 5 * 3
+quot = 5 / 3
+# 2.	Comparison Operators:
+is_equal = (5 == 3)
+is_not_equal = (5 != 3)
+is_greater = (5 > 3)

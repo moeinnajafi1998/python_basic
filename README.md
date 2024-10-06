@@ -30,8 +30,6 @@ tutorial to learn python basic
    - Dictionaries
    - Sets
 
-6. ****
-   - 
-   - 
-   - 
-   - 
+6. **Modules and Libraries**
+   - Importing Modules
+   - Using Libraries

@@ -8,26 +8,30 @@ tutorial to learn python basic
    - Installing Python
    - Writing and running Python scripts
 
-2. **Basic Syntax and Variables**
-   - Python syntax rules
-   - Variables and data types (integers, floats, strings, booleans)
+2. **Other basics**
    - Basic input and output
    - Comments
+   - Python syntax rules and Indentation
   
-3. **Basic Data Structures**
+3. **Control Structures**
+   - Conditional statements (`if`, `elif`, `else`)
+   - Loops (`for` and `while` loops)
+   - Break and continue statements
+
+4. **Other basics**
+   - Variable
+   - Data Types
+   - Functions
+   - Basic Operators
+
+5. **Data Structures**
    - Lists
    - Tuples
    - Dictionaries
    - Sets
 
-4. **Control Structures**
-   - Conditional statements (`if`, `elif`, `else`)
-   - Loops (`for` and `while` loops)
-   - Break and continue statements
-
-
-
-5. **Functions**
-   - Defining and calling functions
-   - Function arguments (positional, keyword, default)
-   - Return values
+6. ****
+   - 
+   - 
+   - 
+   - 

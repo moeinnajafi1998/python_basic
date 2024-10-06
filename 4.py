@@ -17,30 +17,9 @@ name = "Alice"
 
 # 3.	Functions: Blocks of reusable code that perform a specific task. 
 #       Defined using the def keyword. For example:
-
 def greet(name):
     return f"Hello, {name}!"
 print(greet("MoeinNajafi1998"))
-
-# 4.	Loops: Used to iterate over a sequence (like a list or a range). 
-#       Common loops are for and while.
-for i in range(5):
-    print(i)
-
-i = 0
-while i < 5:
-    print(i)
-    i += 1
-
-# 5.	Conditional Statements: Used to execute code based on conditions (if, elif, else).
-x = 10
-if x > 0:
-    print("Positive number")
-elif x == 0:
-    print("Zero")
-else:
-    print("Negative number")
-
 
 # Here's a simple example that combines variables, loops, and functions:
 def factorial(n):
@@ -53,7 +32,6 @@ number = 5
 print(f"The factorial of {number} is {factorial(number)}")
 # This code defines a function to calculate the factorial of a number and then prints the factorial of 5.
 # Feel free to ask more specific questions or dive deeper into any topic!
-
 
 # Basic Operators
 # 1.	Arithmetic Operators:
